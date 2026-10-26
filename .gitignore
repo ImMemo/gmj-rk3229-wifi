@@ -1,0 +1,14 @@
+*.ko
+*.o
+*.bin
+*.img
+*.img.gz
+*.dtb
+*.vhdx
+*.log
+*.bak
+*.swp
+.env
+id_*
+**/build.LibreELEC*/
+**/sources/
